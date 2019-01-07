@@ -1,0 +1,42 @@
+-----------------------------------------------------------------------------------------
+
+Release notes 1.1.3
+
+Added features:
+
+Bugfixes:
+* With a direct transformation, recognition of winter/summer/LCC/SCC went wrong. This has been fixed.
+
+
+-----------------------------------------------------------------------------------------
+
+Release notes 1.1.2
+
+Added features:
+* A direct transformation from XML to XML now reads the version number, and adds one for the result file.
+* Reading an XML will write the version number + 1 in the XLS file.
+
+Bugfixes:
+
+
+
+-----------------------------------------------------------------------------------------
+
+Release notes 1.1.1
+
+Added features:
+
+
+Bugfixes:
+* A direct transformation from XML to XML now copies the date from the original file.
+* The date field in a created XLS file is now in dd-mm-yyyy format.
+
+-----------------------------------------------------------------------------------------
+
+Release notes 1.1.0
+
+Added features:
+* A XML to XML checkbox has been added, for a quick rewrite in XML.
+* It's now possible to add a flow 144, to create constraints that fit pre-coupling.
+
+Bugfixes:
